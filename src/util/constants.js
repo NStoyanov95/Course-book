@@ -1,0 +1,1 @@
+exports.SECRET  = '$2y$10$VWJkR.gslZmndKxZT3VdTeJptQXvFbzx2vWDXCi1mTQ/OJKbkaKcu';
